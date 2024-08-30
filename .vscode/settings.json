@@ -5,6 +5,7 @@
     "source.fixAll.eslint": "explicit"
   },
   "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.tsserver.maxTsServerMemory": 8192,
   "spellright.language": ["en"],
   "spellright.documentTypes": ["markdown", "typescript", "typescriptreact"],
   "tailwindCSS.experimental.classRegex": [["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]]
